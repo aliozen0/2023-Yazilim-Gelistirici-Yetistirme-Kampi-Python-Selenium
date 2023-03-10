@@ -1,0 +1,1 @@
+# aliozen0--2023-Yazilim-Gelistirici-Yetistirme-Kampi-Python-Selenium

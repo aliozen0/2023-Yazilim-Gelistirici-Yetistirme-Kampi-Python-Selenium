@@ -1,4 +1,4 @@
-### Odev 1
+### 5. Gun Odev 1
 
 Pytest'de dekoratörler, test fonksiyonlarını veya metotlarını belirli özelliklerle etiketleyerek, test süreçlerini yönetmenize ve özelleştirmenize olanak sağlayan işlevlerdir. BUnlar bazıları şunlardır;
 
